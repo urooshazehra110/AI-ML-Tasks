@@ -9,7 +9,7 @@ The objective of this task is to predict the next day's stock closing price usin
 Stock market data is obtained using the `yfinance` Python library from Yahoo Finance.
 
 Example stock used:
-- Apple Inc. (AAPL)
+- Tesla. (TSLA)
 
 Features used:
 - Open price
