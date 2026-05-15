@@ -34,7 +34,7 @@ Target variable:
 
 ### 3. Model Training
 - Linear Regression model trained on historical data
-- Train-test split performed (time-series aware)
+- Train test split performed (time-series aware)
 
 ### 4. Prediction
 - Model predicts next day's closing price
