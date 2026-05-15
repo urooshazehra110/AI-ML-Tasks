@@ -1,4 +1,4 @@
-# Task 2: Stock Price Prediction (Short-Term)
+# Task 2: Stock Price Prediction
 
 ## Objective
 The objective of this task is to predict the next day's stock closing price using historical stock market data. Machine learning regression techniques are used to model the relationship between stock features and closing price.
